@@ -37,6 +37,8 @@ set nobackup
 set nowritebackup
 set noswapfile
 
+" Open new windows in a logical order
+set splitbelow splitright
 
 " Plugins ======================================================================
 
